@@ -38,7 +38,7 @@ def guess():
         #If the player wants to play again
         replay = input("Do you want to play again ? YES / NO ")
         y = 0
-    #If the player quit the game
+    #If the player quits the game
     print("It's was great playing with you ! See you ! ")
 
 
